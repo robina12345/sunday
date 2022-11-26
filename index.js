@@ -23,6 +23,10 @@ app.get('/login',(req,res)=>{
     {
         name:"Som",
         email:"Som@gmail.com"
+    },
+    {
+        name:"Ankit",
+        email:"ankit@gmail.com"
     }
 ]);
 })
